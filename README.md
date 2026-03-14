@@ -35,14 +35,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavi06112005-afk&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavi06112005-afk&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavishanth-sujeevan&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavishanth-sujeevan&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ## 🐱 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavi06112005-afk&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavishanth-sujeevan&theme=tokyonight" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/pavi06112005-afk" target="_blank">
+  <a href="https://github.com/pavishanth-sujeevan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48px" />
   </a>
 
